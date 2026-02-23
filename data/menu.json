@@ -1,0 +1,19 @@
+[
+    {"category": "Appetizers", "name": "Spring Rolls", "price": 6.99},
+    {"category": "Appetizers", "name": "Hummus", "price": 8.99},
+    {"category": "Appetizers", "name": "Steamed Vegetables", "price": 4.99},
+    {"category": "Appetizers", "name": "Potato Skins", "price": 6.99},
+    {"category": "Main Courses", "name": "Burger", "price": 13.99},
+    {"category": "Main Courses", "name": "Chicken", "price": 12.99},
+    {"category": "Main Courses", "name": "Salmon", "price": 15.99},
+    {"category": "Main Courses", "name": "Salad", "price": 11.99},
+    {"category": "Main Courses", "name": "Cod", "price": 21.99},
+    {"category": "Desserts", "name": "Ice Cream", "price": 6.99},
+    {"category": "Desserts", "name": "Cake", "price": 7.99},
+    {"category": "Desserts", "name": "Fruit", "price": 8.99},
+    {"category": "Desserts", "name": "Baklava", "price": 13.99},
+    {"category": "Drinks", "name": "Water", "price": 2.99},
+    {"category": "Drinks", "name": "Coke", "price": 4.99},
+    {"category": "Drinks", "name": "Pepsi", "price": 4.99},
+    {"category": "Drinks", "name": "Beer", "price": 7.99}
+]
