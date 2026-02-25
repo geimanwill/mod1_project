@@ -9,12 +9,12 @@
     <h1>Will's Restaurant Menu</h1>
     <div class = "categories">
         <h2>Categories</h2>
-            <button>Appetizers</button>
-            <button>Main Courses</button>
-            <button>Desserts</button>
-            <button>Drinks</button>
+            <button onclick = "filterMenu('Appetizers')"> Appetizers </button>
+            <button onclick = "filterMenu('Main Courses')"> Main Courses </button>
+            <button onclick = "filterMenu('Desserts')">Desserts</button>
+            <button onclick = "filterMenu('Drinks')">Drinks</button>
     </div>
-    <div class = "menu"></div>
+    <div id = "menu"></div>
     <script src="js/scripts.js"></script>
 </body>
 </html>
